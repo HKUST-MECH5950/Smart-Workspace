@@ -43,7 +43,7 @@ To train the AI module, run
 ```
 python AI_module.py --mode train
 ```
-The conde will generate a artificial training daya like following and train the module.
+The code will generate a artificial training daya like following and train the module.
 ![alt|200](./images/art_training_data.png)
 
 
